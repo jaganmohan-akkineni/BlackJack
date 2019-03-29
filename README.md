@@ -8,3 +8,5 @@ BlackJack is a card game played with a 52-card deck. This is a simple version of
 3) Let the dealer draw additional cards until their hand exceeds 21 ("busted").
 
 All number cards will have same value as its number. Face cards will have 10 points. Ace can have 11 or 1 depending on current score.
+
+The game is implemented to support multiple rounds between two players. Player inputs are taken from the console.
